@@ -26,6 +26,7 @@ Please adhere to this project's `code of conduct`.
 ## Authors
 
 - [@CorradoCorrado](https://github.com/CorradoCorrado)
+
 In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move
 
 ## Screenshots
