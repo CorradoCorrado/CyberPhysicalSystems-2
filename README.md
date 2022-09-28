@@ -27,7 +27,7 @@ Please adhere to this project's `code of conduct`.
 
 - [@CorradoCorrado](https://github.com/CorradoCorrado)
 
-In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move
+In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move. HHGTTU
 
 ## Screenshots
 
